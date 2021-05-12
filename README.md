@@ -15,9 +15,6 @@ would benefit from a quick reference containing code to solve challenges.
 - Data Wrangling
 - Handling Numerical Data
 - Handling Categorical Data
-- Handling Text
-- Handling Dates and Times
-- Handling Images
 - Dimensionality Reduction Using Feature Extraction
 - Dimensionality Reduction Using Feature Selection
 - Model Evaluation
