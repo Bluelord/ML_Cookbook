@@ -15,8 +15,7 @@ would benefit from a quick reference containing code to solve challenges.
 - Data Wrangling
 - Handling Numerical Data
 - Handling Categorical Data
-- Dimensionality Reduction Using Feature Extraction
-- Dimensionality Reduction Using Feature Selection
+- Dimensionality Reduction
 - Model Evaluation
 - Model Selection
 - Linear Regression
